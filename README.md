@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0010-regular-expression-matching) |
+## Array
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
