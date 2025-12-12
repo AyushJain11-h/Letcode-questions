@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
