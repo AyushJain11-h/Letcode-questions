@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0127-word-ladder) |
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
