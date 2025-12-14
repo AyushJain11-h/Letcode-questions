@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0130-surrounded-regions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0130-surrounded-regions) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
 |  |
@@ -111,4 +114,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
