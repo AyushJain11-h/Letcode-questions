@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0136-single-number) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
 |  |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0133-clone-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
