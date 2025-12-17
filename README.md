@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0152-maximum-product-subarray) |
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0152-maximum-product-subarray) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
 |  |
