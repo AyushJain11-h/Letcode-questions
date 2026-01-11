@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0128-longest-consecutive-sequence) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0143-reorder-list) |
