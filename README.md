@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0127-word-ladder) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
