@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0128-longest-consecutive-sequence) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
