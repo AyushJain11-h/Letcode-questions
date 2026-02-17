@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0401-binary-watch) |
 ## Graph
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0401-binary-watch) |
 ## Trie
 |  |
 | ------- |
