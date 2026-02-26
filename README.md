@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
+| [0214-shortest-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0214-shortest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0239-sliding-window-maximum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
