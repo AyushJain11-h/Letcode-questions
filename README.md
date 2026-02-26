@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0494-target-sum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0407-trapping-rain-water-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0134-gas-station) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Stack
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0146-lru-cache) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Union Find
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0148-sort-list) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Merge Sort
 |  |
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Counting
 |  |
 | ------- |
