@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1542-find-longest-awesome-substring) |
+| [3448-count-substrings-divisible-by-last-digit](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3448-count-substrings-divisible-by-last-digit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1092-shortest-common-supersequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
+| [3448-count-substrings-divisible-by-last-digit](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3448-count-substrings-divisible-by-last-digit) |
 ## Array
 |  |
 | ------- |
