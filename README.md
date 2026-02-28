@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
