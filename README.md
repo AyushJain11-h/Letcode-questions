@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1092-shortest-common-supersequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1092-shortest-common-supersequence) |
+| [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1220-count-vowels-permutation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1220-count-vowels-permutation) |
 | [1278-palindrome-partitioning-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1278-palindrome-partitioning-iii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
+| [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0868-binary-gap) |
+| [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1542-find-longest-awesome-substring) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 ## Binary Search Tree
