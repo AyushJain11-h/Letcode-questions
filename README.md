@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1982-find-array-given-subset-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1982-find-array-given-subset-sums) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Heap (Priority Queue)
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0190-reverse-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1982-find-array-given-subset-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1982-find-array-given-subset-sums) |
 ## Sorting
 |  |
 | ------- |
