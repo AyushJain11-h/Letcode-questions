@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1982-find-array-given-subset-sums) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
 | ------- |
