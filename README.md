@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1278-palindrome-partitioning-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1542-find-longest-awesome-substring) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3448-count-substrings-divisible-by-last-digit) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Union-Find
 |  |
