@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0441-arranging-coins](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0441-arranging-coins) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Sliding Window
