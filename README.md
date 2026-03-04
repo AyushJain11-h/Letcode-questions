@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0407-trapping-rain-water-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0798-smallest-rotation-with-highest-score) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1542-find-longest-awesome-substring) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0148-sort-list) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
