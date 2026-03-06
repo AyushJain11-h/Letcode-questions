@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0344-reverse-string) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0146-lru-cache) |
+| [0290-word-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0387-first-unique-character-in-a-string) |
