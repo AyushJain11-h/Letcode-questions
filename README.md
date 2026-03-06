@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0466-count-the-repetitions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0466-count-the-repetitions) |
+| [0516-longest-palindromic-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0647-palindromic-substrings) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0518-coin-change-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0647-palindromic-substrings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0647-palindromic-substrings) |
