@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0316-remove-duplicate-letters) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
