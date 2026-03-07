@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0434-number-of-segments-in-a-string) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Hash Table
