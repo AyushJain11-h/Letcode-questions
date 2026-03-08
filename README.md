@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3448-count-substrings-divisible-by-last-digit) |
 ## Dynamic Programming
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
 | [1982-find-array-given-subset-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1982-find-array-given-subset-sums) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0648-replace-words) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1542-find-longest-awesome-substring) |
+| [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
 ## Union Find
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
 ## Graph
 |  |
 | ------- |
