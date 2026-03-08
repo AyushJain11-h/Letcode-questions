@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0648-replace-words) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1092-shortest-common-supersequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1092-shortest-common-supersequence) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0648-replace-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0648-replace-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0648-replace-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0648-replace-words) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1542-find-longest-awesome-substring) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0648-replace-words) |
 ## Memoization
 |  |
 | ------- |
