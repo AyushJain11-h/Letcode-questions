@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0118-pascals-triangle) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0118-pascals-triangle) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0141-linked-list-cycle) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0316-remove-duplicate-letters) |
 ## Bucket Sort
 |  |
