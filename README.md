@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3448-count-substrings-divisible-by-last-digit) |
 ## Array
 |  |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Randomized
 |  |
 | ------- |
