@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0392-is-subsequence) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0401-binary-watch) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
