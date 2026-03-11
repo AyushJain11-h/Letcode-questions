@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0745-prefix-and-suffix-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0745-prefix-and-suffix-search) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 | [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
