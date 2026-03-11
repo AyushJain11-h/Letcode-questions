@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0337-house-robber-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -676,4 +678,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0479-largest-palindrome-product) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
