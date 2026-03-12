@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0479-largest-palindrome-product) |
 | [0509-fibonacci-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0648-replace-words) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0757-set-intersection-size-at-least-two) |
