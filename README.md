@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0384-shuffle-an-array) |
 | [0403-frog-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0480-sliding-window-median) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
