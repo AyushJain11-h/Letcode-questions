@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1622-fancy-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0757-set-intersection-size-at-least-two) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Stack
 |  |
 | ------- |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sliding Window
 |  |
 | ------- |
