@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0242-valid-anagram) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0242-valid-anagram) |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
