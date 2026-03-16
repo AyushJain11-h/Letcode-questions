@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0466-count-the-repetitions) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0567-permutation-in-string) |
