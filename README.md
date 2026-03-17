@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0416-partition-equal-subset-sum) |
+| [0436-find-right-interval](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0480-sliding-window-median) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0436-find-right-interval](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
