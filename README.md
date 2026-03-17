@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
