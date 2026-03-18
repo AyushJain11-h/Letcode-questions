@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0384-shuffle-an-array) |
+| [0412-fizz-buzz](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0445-add-two-numbers-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0434-number-of-segments-in-a-string) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0415-add-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
