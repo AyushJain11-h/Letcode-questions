@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0441-arranging-coins) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0384-shuffle-an-array) |
 ## Monotonic Stack
 |  |
@@ -782,4 +785,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0561-array-partition) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
