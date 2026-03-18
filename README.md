@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0466-count-the-repetitions) |
+| [0481-magical-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0541-reverse-string-ii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0392-is-subsequence) |
+| [0481-magical-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0567-permutation-in-string) |
