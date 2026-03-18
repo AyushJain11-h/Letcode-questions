@@ -1,6 +1,5 @@
-class Solution {
-    public int characterReplacement(String s, int k) {
-        if(s == null || s.length() == 0) return 0;
+class Solution{
+    public int characterReplacement(String s, int k){
         int left = 0;
         int ans = 0;
         int maxOccurance = 0;
