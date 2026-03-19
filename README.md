@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0466-count-the-repetitions) |
+| [0474-ones-and-zeroes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0466-count-the-repetitions) |
+| [0474-ones-and-zeroes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0491-non-decreasing-subsequences) |
