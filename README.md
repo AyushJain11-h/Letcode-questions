@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1278-palindrome-partitioning-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1278-palindrome-partitioning-iii) |
+| [1332-remove-palindromic-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1446-consecutive-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1446-consecutive-characters) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0917-reverse-only-letters) |
+| [1332-remove-palindromic-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 ## Greedy
 |  |
