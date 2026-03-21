@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1122-relative-sort-array) |
 | [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
+| [1207-unique-number-of-occurrences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1542-find-longest-awesome-substring) |
 | [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
