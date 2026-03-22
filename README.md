@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1185-day-of-the-week](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1185-day-of-the-week) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
