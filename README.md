@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1122-relative-sort-array) |
 | [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1207-unique-number-of-occurrences) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0917-reverse-only-letters) |
+| [1089-duplicate-zeros](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 ## Greedy
