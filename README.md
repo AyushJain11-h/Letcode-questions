@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1622-fancy-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
 | [1982-find-array-given-subset-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1982-find-array-given-subset-sums) |
 | [1991-find-the-middle-index-in-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Counting Sort
 |  |
 | ------- |
