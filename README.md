@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0819-most-common-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
+| [0849-maximize-distance-to-closest-person](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0941-valid-mountain-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
