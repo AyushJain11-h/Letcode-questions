@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1732-find-the-highest-altitude) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1929-concatenation-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
 | ------- |
