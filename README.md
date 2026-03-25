@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Prefix Sum
 |  |
