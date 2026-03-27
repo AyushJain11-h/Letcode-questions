@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0833-find-and-replace-in-string) |
 | [0849-maximize-distance-to-closest-person](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0849-maximize-distance-to-closest-person) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0930-binary-subarrays-with-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1539-kth-missing-positive-number) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -847,10 +851,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -904,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1422-maximum-score-after-splitting-a-string) |
