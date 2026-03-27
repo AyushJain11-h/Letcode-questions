@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0648-replace-words) |
+| [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0757-set-intersection-size-at-least-two) |
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -794,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Counting
