@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1278-palindrome-partitioning-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1278-palindrome-partitioning-iii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1397-find-all-good-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1397-find-all-good-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1220-count-vowels-permutation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1220-count-vowels-permutation) |
 | [1278-palindrome-partitioning-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1278-palindrome-partitioning-iii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1397-find-all-good-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1397-find-all-good-strings) |
 | [1425-constrained-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1425-constrained-subsequence-sum) |
