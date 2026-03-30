@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0561-array-partition) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
