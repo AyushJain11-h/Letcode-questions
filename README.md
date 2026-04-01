@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0541-reverse-string-ii) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0414-third-maximum-number) |
@@ -828,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0493-reverse-pairs) |
