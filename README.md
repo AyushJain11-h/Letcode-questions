@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0466-count-the-repetitions) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0624-maximum-distance-in-arrays) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0491-non-decreasing-subsequences) |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
