@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0118-pascals-triangle) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0301-remove-invalid-parentheses) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0268-missing-number) |
