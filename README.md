@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
 | [1200-minimum-absolute-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1207-unique-number-of-occurrences) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1224-maximum-equal-frequency](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1224-maximum-equal-frequency) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0407-trapping-rain-water-ii) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
