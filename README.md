@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
+| [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
 | [1049-last-stone-weight-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1002-find-common-characters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0936-stamping-the-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0936-stamping-the-sequence) |
+| [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1544-make-the-string-great) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0833-find-and-replace-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0833-find-and-replace-in-string) |
+| [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
 | [1122-relative-sort-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -996,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0496-next-greater-element-i) |
+| [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bucket Sort
 |  |
@@ -1023,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0493-reverse-pairs) |
+| [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
 ## Enumeration
 |  |
 | ------- |
