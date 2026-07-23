@@ -1,15 +1,14 @@
 class Solution {
+    private static final int MOD = 1_000_000_007;
+
     public int distinctSubseqII(String s) {
-        int mod = 1_000_000_007;
-        long[] dp = new long[26];
+        long[] last = new long[26];
         long total = 0;
 
         for (char c : s.toCharArray()) {
-            int idx = c - 'a';
-            long newCount = (total + 1) % mod;
-
-            total = (total + newCount - dp[idx] + mod) % mod;
-            dp[idx] = newCount;
+            long newTotal = (total * 2 + 1 - last[c - 'a'] + MOD) % MOD;
+            last[c - 'a'] = (total + 1) % MOD;
+            total = newTotal;
         }
 
         return (int) total;
