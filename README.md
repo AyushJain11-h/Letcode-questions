@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0843-guess-the-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0843-guess-the-word) |
 | [0866-prime-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0866-prime-palindrome) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0989-add-to-array-form-of-integer) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0833-find-and-replace-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0833-find-and-replace-in-string) |
+| [0843-guess-the-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0843-guess-the-word) |
 | [0859-buddy-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0859-buddy-strings) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0903-valid-permutations-for-di-sequence) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0833-find-and-replace-in-string) |
+| [0843-guess-the-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0843-guess-the-word) |
 | [0849-maximize-distance-to-closest-person](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -1065,4 +1068,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0399-evaluate-division) |
+## Minimax
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0843-guess-the-word) |
+## Interactive
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0843-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0843-guess-the-word) |
 <!---LeetCode Topics End-->
