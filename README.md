@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0472-concatenated-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0472-concatenated-words) |
 | [0508-most-frequent-subtree-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0509-fibonacci-number) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0485-max-consecutive-ones) |
@@ -756,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0745-prefix-and-suffix-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0745-prefix-and-suffix-search) |
@@ -820,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
