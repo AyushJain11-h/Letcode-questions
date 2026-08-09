@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
+| [0730-count-different-palindromic-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0745-prefix-and-suffix-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0796-rotate-string) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0730-count-different-palindromic-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
