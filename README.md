@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1185-day-of-the-week](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1185-day-of-the-week) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1399-count-largest-group](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1224-maximum-equal-frequency](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1224-maximum-equal-frequency) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0936-stamping-the-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0936-stamping-the-sequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
