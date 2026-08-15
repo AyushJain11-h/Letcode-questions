@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0472-concatenated-words) |
 | [0508-most-frequent-subtree-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0748-shortest-completing-word) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0757-set-intersection-size-at-least-two) |
+| [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0819-most-common-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0819-most-common-word) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
+| [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0407-trapping-rain-water-ii) |
+| [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -884,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -961,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0399-evaluate-division) |
+| [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
 ## Segment Tree
 |  |
@@ -1082,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0843-guess-the-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0843-guess-the-word) |
 ## Interactive
 |  |
@@ -1095,4 +1103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
