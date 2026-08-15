@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1046-last-stone-weight](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1425-constrained-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1425-constrained-subsequence-sum) |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0399-evaluate-division) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1086,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0399-evaluate-division) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Minimax
 |  |
 | ------- |
@@ -1107,4 +1110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
