@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1397-find-all-good-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1397-find-all-good-strings) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1425-constrained-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1425-constrained-subsequence-sum) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1732-find-the-highest-altitude) |
