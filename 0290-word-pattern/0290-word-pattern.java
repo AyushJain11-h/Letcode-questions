@@ -1,30 +1,39 @@
-import java.util.*;
+import java.util.HashMap;
 
 class Solution {
     public boolean wordPattern(String pattern, String s) {
+
         String[] words = s.split(" ");
-        
+
+        // Number of characters and words must be same
         if (pattern.length() != words.length) {
             return false;
         }
 
-        HashMap<Character, String> map = new HashMap<>();
-        HashSet<String> used = new HashSet<>();
+        HashMap<Character, String> charToWord = new HashMap<>();
+        HashMap<String, Character> wordToChar = new HashMap<>();
 
         for (int i = 0; i < pattern.length(); i++) {
-            char c = pattern.charAt(i);
+
+            char ch = pattern.charAt(i);
             String word = words[i];
 
-            if (map.containsKey(c)) {
-                if (!map.get(c).equals(word)) {
+            // Check character -> word mapping
+            if (charToWord.containsKey(ch)) {
+                if (!charToWord.get(ch).equals(word)) {
                     return false;
                 }
             } else {
-                if (used.contains(word)) {
+                charToWord.put(ch, word);
+            }
+
+            // Check word -> character mapping
+            if (wordToChar.containsKey(word)) {
+                if (wordToChar.get(word) != ch) {
                     return false;
                 }
-                map.put(c, word);
-                used.add(word);
+            } else {
+                wordToChar.put(word, ch);
             }
         }
 
