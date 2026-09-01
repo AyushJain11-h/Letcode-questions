@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0705-design-hashset) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-prefix-and-suffix-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0705-design-hashset) |
 | [0745-prefix-and-suffix-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0819-most-common-word) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0705-design-hashset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0705-design-hashset) |
 | [0745-prefix-and-suffix-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0745-prefix-and-suffix-search) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1622-fancy-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1622-fancy-sequence) |
@@ -965,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0214-shortest-palindrome) |
+| [0705-design-hashset](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0705-design-hashset) |
 ## Simulation
 |  |
 | ------- |
