@@ -2,88 +2,97 @@ import java.util.*;
 
 class Solution {
 
-    PriorityQueue<Integer> small = new PriorityQueue<>(Collections.reverseOrder()); // max heap
-    PriorityQueue<Integer> large = new PriorityQueue<>(); // min heap
-    Map<Integer, Integer> delayed = new HashMap<>();
+    TreeMap<Integer, Integer> small = new TreeMap<>();
+    TreeMap<Integer, Integer> large = new TreeMap<>();
 
-    int smallSize = 0, largeSize = 0;
-    int k;
+    int smallSize = 0;
+    int largeSize = 0;
 
     public double[] medianSlidingWindow(int[] nums, int k) {
-        this.k = k;
         int n = nums.length;
-        double[] ans = new double[n - k + 1];
+        double[] result = new double[n - k + 1];
 
+        // Add first k elements
         for (int i = 0; i < k; i++) {
             add(nums[i]);
         }
 
-        ans[0] = getMedian();
+        result[0] = getMedian(k);
 
+        // Slide the window
         for (int i = k; i < n; i++) {
-            add(nums[i]);
             remove(nums[i - k]);
-            ans[i - k + 1] = getMedian();
+            add(nums[i]);
+
+            result[i - k + 1] = getMedian(k);
         }
 
-        return ans;
+        return result;
     }
 
     private void add(int num) {
-        if (small.isEmpty() || num <= small.peek()) {
-            small.offer(num);
+        if (small.isEmpty() || num <= small.lastKey()) {
+            small.put(num, small.getOrDefault(num, 0) + 1);
             smallSize++;
         } else {
-            large.offer(num);
+            large.put(num, large.getOrDefault(num, 0) + 1);
             largeSize++;
         }
+
         balance();
     }
 
     private void remove(int num) {
-        delayed.put(num, delayed.getOrDefault(num, 0) + 1);
-
-        if (num <= small.peek()) {
+        if (small.containsKey(num)) {
+            removeFromMap(small, num);
             smallSize--;
-            if (num == small.peek()) prune(small);
         } else {
+            removeFromMap(large, num);
             largeSize--;
-            if (num == large.peek()) prune(large);
         }
+
         balance();
     }
 
+    private void removeFromMap(TreeMap<Integer, Integer> map, int num) {
+        int count = map.get(num);
+
+        if (count == 1) {
+            map.remove(num);
+        } else {
+            map.put(num, count - 1);
+        }
+    }
+
     private void balance() {
-        if (smallSize > largeSize + 1) {
-            large.offer(small.poll());
+
+        // small can have one more element than large
+        while (smallSize > largeSize + 1) {
+            int num = small.lastKey();
+
+            removeFromMap(small, num);
             smallSize--;
+
+            large.put(num, large.getOrDefault(num, 0) + 1);
             largeSize++;
-            prune(small);
-        } else if (smallSize < largeSize) {
-            small.offer(large.poll());
+        }
+
+        while (smallSize < largeSize) {
+            int num = large.firstKey();
+
+            removeFromMap(large, num);
             largeSize--;
+
+            small.put(num, small.getOrDefault(num, 0) + 1);
             smallSize++;
-            prune(large);
         }
     }
 
-    private void prune(PriorityQueue<Integer> heap) {
-        while (!heap.isEmpty()) {
-            int num = heap.peek();
-            if (delayed.containsKey(num)) {
-                delayed.put(num, delayed.get(num) - 1);
-                if (delayed.get(num) == 0) delayed.remove(num);
-                heap.poll();
-            } else {
-                break;
-            }
-        }
-    }
-
-    private double getMedian() {
+    private double getMedian(int k) {
         if (k % 2 == 1) {
-            return small.peek();
+            return (double) small.lastKey();
         }
-        return ((long) small.peek() + large.peek()) / 2.0;
+
+        return ((double) small.lastKey() + (double) large.firstKey()) / 2.0;
     }
 }
