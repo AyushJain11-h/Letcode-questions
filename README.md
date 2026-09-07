@@ -1140,4 +1140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
