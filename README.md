@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0806-number-of-lines-to-write-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0833-find-and-replace-in-string) |
