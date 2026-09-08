@@ -1,9 +1,23 @@
-public class Solution {
+class Solution {
     public boolean hasAlternatingBits(int n) {
-        // XOR n with n shifted right by 1
-        int xor = n ^ (n >> 1);
+        
+        // Get the last bit
+        int previousBit = n & 1;
+        
+        n >>= 1;
 
-        // Check if xor is all 1's in binary
-        return (xor & (xor + 1)) == 0;
+        while (n > 0) {
+            int currentBit = n & 1;
+
+            // If two consecutive bits are same
+            if (currentBit == previousBit) {
+                return false;
+            }
+
+            previousBit = currentBit;
+            n >>= 1;
+        }
+
+        return true;
     }
 }
