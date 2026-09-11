@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
+| [0977-squares-of-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1002-find-common-characters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1089-duplicate-zeros) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1332-remove-palindromic-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1332-remove-palindromic-subsequences) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0833-find-and-replace-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0833-find-and-replace-in-string) |
 | [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
+| [0977-squares-of-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
