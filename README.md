@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0897-increasing-order-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [0936-stamping-the-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0936-stamping-the-sequence) |
 | [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1025,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Prefix Sum
