@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0897-increasing-order-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0897-increasing-order-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0965-univalued-binary-tree) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0897-increasing-order-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
