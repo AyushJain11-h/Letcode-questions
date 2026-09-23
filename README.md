@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0384-shuffle-an-array) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0441-arranging-coins) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0693-binary-number-with-alternating-bits) |
