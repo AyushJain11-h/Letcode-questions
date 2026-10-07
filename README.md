@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0917-reverse-only-letters) |
 | [0936-stamping-the-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0940-distinct-subsequences-ii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1002-find-common-characters) |
 | [1092-shortest-common-supersequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0930-binary-subarrays-with-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0941-valid-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -1181,4 +1183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1037-valid-boomerang) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
