@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1122-relative-sort-array) |
 | [1125-smallest-sufficient-team](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1125-smallest-sufficient-team) |
+| [1184-distance-between-bus-stops](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
