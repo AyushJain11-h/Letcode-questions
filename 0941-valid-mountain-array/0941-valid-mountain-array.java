@@ -1,23 +1,30 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
         int n = arr.length;
-        if (n < 3) return false;
+
+        // A mountain needs at least 3 elements
+        if (n < 3) {
+            return false;
+        }
 
         int i = 0;
 
-        // walk up
+        // Go up
         while (i + 1 < n && arr[i] < arr[i + 1]) {
             i++;
         }
 
-        // peak can't be first or last
-        if (i == 0 || i == n - 1) return false;
+        // Peak cannot be the first or last element
+        if (i == 0 || i == n - 1) {
+            return false;
+        }
 
-        // walk down
+        // Go down
         while (i + 1 < n && arr[i] > arr[i + 1]) {
             i++;
         }
 
+        // We should reach the end
         return i == n - 1;
     }
 }
