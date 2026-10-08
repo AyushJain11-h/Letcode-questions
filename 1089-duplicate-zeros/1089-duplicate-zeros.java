@@ -1,31 +1,32 @@
 class Solution {
     public void duplicateZeros(int[] arr) {
-        int n = arr.length;
-        int zeros = 0;
+        int possibleDups = 0;
+        int length = arr.length;
 
-        // Count zeros
-        for (int i = 0; i < n; i++) {
-            if (arr[i] == 0) zeros++;
+        // Count zeros that can be duplicated
+        for (int i = 0; i < length - possibleDups; i++) {
+            if (arr[i] == 0) {
+                if (i == length - possibleDups - 1) {
+                    // Special case: zero at the last available position
+                    arr[length - 1] = 0;
+                    length--;
+                    break;
+                }
+                possibleDups++;
+            }
         }
 
-        int i = n - 1;
-        int j = n + zeros - 1;
+        // Shift elements from right to left
+        int last = length - possibleDups - 1;
 
-        // Work backwards
-        while (i < j) {
-            if (j < n) {
-                arr[j] = arr[i];
-            }
-
+        for (int i = last; i >= 0; i--) {
             if (arr[i] == 0) {
-                j--;
-                if (j < n) {
-                    arr[j] = 0;
-                }
+                arr[i + possibleDups] = 0;
+                possibleDups--;
+                arr[i + possibleDups] = 0;
+            } else {
+                arr[i + possibleDups] = arr[i];
             }
-
-            i--;
-            j--;
         }
     }
 }
