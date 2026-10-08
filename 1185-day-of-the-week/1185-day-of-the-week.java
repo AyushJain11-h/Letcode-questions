@@ -1,19 +1,48 @@
 class Solution {
     public String dayOfTheWeek(int day, int month, int year) {
-        String[] days = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
         
-        // Adjust month and year for Zeller's formula
-        if (month < 3) {
-            month += 12;
-            year--;
+        String[] days = {
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        };
+
+        int[] daysInMonth = {
+            31, 28, 31, 30, 31, 30,
+            31, 31, 30, 31, 30, 31
+        };
+
+        // Check leap year
+        if (isLeapYear(year)) {
+            daysInMonth[1] = 29;
         }
-        
-        int K = year % 100;
-        int J = year / 100;
-        
-        int h = (day + (13 * (month + 1)) / 5 + K + (K / 4) + (J / 4) + (5 * J)) % 7;
-        
-        // Zeller's output: 0=Saturday, 1=Sunday, ..., 6=Friday
-        return days[(h + 6) % 7];
+
+        // Count days from 1971 to the given date
+        int totalDays = 0;
+
+        for (int y = 1971; y < year; y++) {
+            totalDays += isLeapYear(y) ? 366 : 365;
+        }
+
+        // Add days from previous months
+        for (int m = 0; m < month - 1; m++) {
+            totalDays += daysInMonth[m];
+        }
+
+        // Add current day
+        totalDays += day;
+
+        // January 1, 1971 was Friday
+        // Friday = index 5
+        return days[(totalDays + 4) % 7];
+    }
+
+    private boolean isLeapYear(int year) {
+        return (year % 400 == 0) ||
+               (year % 4 == 0 && year % 100 != 0);
     }
 }
