@@ -1,24 +1,21 @@
+
 import java.util.*;
 
 class Solution {
     public List<Integer> addToArrayForm(int[] num, int k) {
         List<Integer> result = new ArrayList<>();
-        
         int i = num.length - 1;
-        int carry = k;
 
-        // Process from right to left
-        while (i >= 0 || carry > 0) {
+        while (i >= 0 || k > 0) {
             if (i >= 0) {
-                carry += num[i];
-                i--;
+                k += num[i];
             }
 
-            result.add(carry % 10); // current digit
-            carry /= 10;            // update carry
+            result.add(k % 10);
+            k /= 10;
+            i--;
         }
 
-        // Reverse result since we built it backwards
         Collections.reverse(result);
         return result;
     }
