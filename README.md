@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1002-find-common-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1163-last-substring-in-lexicographical-order) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0936-stamping-the-sequence) |
 | [0975-odd-even-jump](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1544-make-the-string-great) |
 ## Hash Table
