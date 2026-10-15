@@ -1,24 +1,27 @@
+
 class Solution {
     public int longestSubstring(String s, int k) {
-        return helper(s, 0, s.length(), k);
-    }
+        int n = s.length();
 
-    private int helper(String s, int start, int end, int k) {
-        if (end - start < k) return 0;
+        if (n < k) {
+            return 0;
+        }
 
         int[] freq = new int[26];
-        for (int i = start; i < end; i++) {
+
+        for (int i = 0; i < n; i++) {
             freq[s.charAt(i) - 'a']++;
         }
 
-        for (int i = start; i < end; i++) {
+        for (int i = 0; i < n; i++) {
             if (freq[s.charAt(i) - 'a'] < k) {
-                int left = helper(s, start, i, k);
-                int right = helper(s, i + 1, end, k);
+                int left = longestSubstring(s.substring(0, i), k);
+                int right = longestSubstring(s.substring(i + 1), k);
+
                 return Math.max(left, right);
             }
         }
 
-        return end - start;
+        return n;
     }
 }
