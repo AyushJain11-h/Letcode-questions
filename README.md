@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1037-valid-boomerang) |
+| [1103-distribute-candies-to-people](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1103-distribute-candies-to-people) |
 | [1185-day-of-the-week](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1185-day-of-the-week) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0844-backspace-string-compare) |
+| [1103-distribute-candies-to-people](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1103-distribute-candies-to-people) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
