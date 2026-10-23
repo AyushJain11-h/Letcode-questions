@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1417-reformat-the-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1417-reformat-the-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1436-destination-city](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1446-consecutive-characters) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1542-find-longest-awesome-substring) |
 | [1544-make-the-string-great](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1544-make-the-string-great) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1425-constrained-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1425-constrained-subsequence-sum) |
+| [1436-destination-city](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1436-destination-city) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-maximum-equal-frequency](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1224-maximum-equal-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1399-count-largest-group) |
+| [1436-destination-city](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1436-destination-city) |
 | [1542-find-longest-awesome-substring](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1542-find-longest-awesome-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
