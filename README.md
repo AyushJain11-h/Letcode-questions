@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-day-of-the-week](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1185-day-of-the-week) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1360-number-of-days-between-two-dates](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1332-remove-palindromic-subsequences) |
+| [1360-number-of-days-between-two-dates](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1360-number-of-days-between-two-dates) |
 | [1397-find-all-good-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1397-find-all-good-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
