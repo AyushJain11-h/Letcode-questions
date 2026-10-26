@@ -1,6 +1,7 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int max1 = 0, max2 = 0;
+        int max1 = 0;
+        int max2 = 0;
 
         for (int num : nums) {
             if (num > max1) {
