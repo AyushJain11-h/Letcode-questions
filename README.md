@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-maximum-equal-frequency](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1224-maximum-equal-frequency) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1331-rank-transform-of-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1224-maximum-equal-frequency](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1224-maximum-equal-frequency) |
+| [1331-rank-transform-of-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1399-count-largest-group) |
 | [1436-destination-city](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1436-destination-city) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
