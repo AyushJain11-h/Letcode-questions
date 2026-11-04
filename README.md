@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1929-concatenation-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1929-concatenation-of-array) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1748-sum-of-unique-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1370-increasing-decreasing-string) |
 | [1399-count-largest-group](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1399-count-largest-group) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Queue
 |  |
