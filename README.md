@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
+| [1903-largest-odd-number-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1844-replace-all-digits-with-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1903-largest-odd-number-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1903-largest-odd-number-in-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Stack
 |  |
