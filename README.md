@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1370-increasing-decreasing-string) |
 | [1397-find-all-good-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1397-find-all-good-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1408-string-matching-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1417-reformat-the-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1417-reformat-the-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1408-string-matching-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1425-constrained-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1425-constrained-subsequence-sum) |
 | [1436-destination-city](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1436-destination-city) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0796-rotate-string) |
 | [1397-find-all-good-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1397-find-all-good-strings) |
+| [1408-string-matching-in-an-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1408-string-matching-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
