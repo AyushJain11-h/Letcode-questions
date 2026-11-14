@@ -1243,4 +1243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1021-remove-outermost-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
