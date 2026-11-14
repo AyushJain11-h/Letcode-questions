@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1103-distribute-candies-to-people) |
 | [1185-day-of-the-week](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1185-day-of-the-week) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1360-number-of-days-between-two-dates](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1360-number-of-days-between-two-dates) |
