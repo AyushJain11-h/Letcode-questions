@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1980-find-unique-binary-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/AyushJain11-h/Letcode-questions/tree/master/3448-count-substrings-divisible-by-last-digit) |
 ## Dynamic Programming
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2157-groups-of-strings](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2157-groups-of-strings) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/AyushJain11-h/Letcode-questions/tree/master/2509-cycle-length-queries-in-a-tree) |
