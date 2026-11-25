@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1550-three-consecutive-odds) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/AyushJain11-h/Letcode-questions/tree/master/0479-largest-palindrome-product) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 ## Graph Theory
 |  |
 | ------- |
