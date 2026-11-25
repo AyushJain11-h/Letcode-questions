@@ -1,21 +1,20 @@
+
 class Solution {
     public int minOperations(String s) {
-        int startWith0 = 0;
-        int startWith1 = 0;
+        int count1 = 0;
 
         for (int i = 0; i < s.length(); i++) {
-            char expected0 = (i % 2 == 0) ? '0' : '1';
-            char expected1 = (i % 2 == 0) ? '1' : '0';
+            char expected = (i % 2 == 0) ? '0' : '1';
 
-            if (s.charAt(i) != expected0) {
-                startWith0++;
-            }
-
-            if (s.charAt(i) != expected1) {
-                startWith1++;
+            if (s.charAt(i) != expected) {
+                count1++;
             }
         }
 
-        return Math.min(startWith0, startWith1);
+        // Changes needed for pattern "010101..."
+        int count2 = s.length() - count1;
+
+        // Return minimum operations
+        return Math.min(count1, count2);
     }
 }
