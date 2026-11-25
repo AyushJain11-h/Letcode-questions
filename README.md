@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1755-closest-subsequence-sum](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1755-closest-subsequence-sum) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1258,4 +1260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AyushJain11-h/Letcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
